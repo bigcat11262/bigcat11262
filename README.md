@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sheepalt
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in C, Python and Assembly
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me, twitter: 
-- Working on: Cave
+- Working on: Cube
 
 <!---
 bigcat11262/bigcat11262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
